@@ -6,7 +6,7 @@ A benchmark suite for evaluating human-AI collaboration and autonomy trade-offs.
 
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run experiments: `python main.py`
+3. Run experiments: `python generate_model_answers_<model_name>.py`
 
 ## Structure
 
