@@ -13,7 +13,3 @@ A benchmark suite for evaluating human-AI collaboration and autonomy trade-offs.
 - `/experiments` - Benchmark tasks and evaluation metrics
 - `/models` - AI model implementations
 - `/data` - Dataset and evaluation scripts
-
-## Documentation
-
-See `CONTRIBUTING.md` for development guidelines.
